@@ -1,0 +1,12 @@
+
+.header {
+  background-color: rgb(22, 31, 75);
+  text-align: center;
+  color: white;
+  border-bottom: 3px solid red;
+  height: 150px;
+}
+
+h1{
+  padding-top: 20px;
+}
