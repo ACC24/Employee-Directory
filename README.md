@@ -17,9 +17,9 @@ https://acc24.github.io/Employee-Directory/
 <br>
 
 <img src= "public/assets/2020-10-28.png">
-<br>
+
 <img src= "public/assets/2020-10-28 (1).png">
-<br>
+
 <img src= "public/assets/2020-10-28 (2).png">
 
 
